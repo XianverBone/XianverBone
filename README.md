@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **XianverBone/XianverBone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width="711.5" height="1024" alt="image" src="https://github.com/user-attachments/assets/525be7bb-f2c7-4b5c-8c84-4baba8b0092a" /> 
+
+    " Is what is given worth it's value when it will all be inevitably lost? "
