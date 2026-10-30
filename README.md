@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 *** 
 
-                                         " Is what is given worth it's value .. " 
+                                   " Is what is given worth it's value .. " 
 
 <img width="1423" height="2048" alt="image" src="https://github.com/user-attachments/assets/84203c83-cd94-4bef-a9ea-9ec49cd76363" />
 
